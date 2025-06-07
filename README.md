@@ -29,7 +29,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Lê Minh Trí** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My full name is **Lê Minh Trí** <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR2a3pjbmRuZmh6cmRqd205a2x1bHNiMGZvc3ozZGJjcHF5bG52aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0Gqi5PtBecoqcY7u/giphy.gif" width="400" align="right"/>
 - :school: I'm currently a fresh Graduate student from **FPT University - Ho Chi Minh City Campus**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
